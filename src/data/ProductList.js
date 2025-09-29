@@ -1,0 +1,166 @@
+export const ProductList = [
+  {
+    id: 1,
+    name: "Wheat",
+    price: 18.50,
+    discountPercentage: 7.5,
+    rating: 4.57,
+    unit: "kg",
+    stock: 550,
+    category: "Grains",
+    image:  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3GIt-P2dSrDu-ecbmx46Bh6TRghhf9HTZ0w&s"
+  },
+  {
+    id: 2,
+    name: "Basmati Rice",
+    price: 24.00,
+    discountPercentage: 6.5,
+    rating: 4.55,
+    unit: "kg",
+    stock: -1,
+    category: "Grains",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTw87jLxXt2KmOroNTaQB1OlMhWSNNPkhQUA&s"
+  },
+  {
+    id: 3,
+    name: "Tomatoes",
+    price: 3.00,
+    discountPercentage: 7.5,
+    rating: 4.57,
+    unit: "kg",
+    stock: 180,
+    category: "Vegetables",
+    image: "https://cdn.britannica.com/16/187216-050-CB57A09B/tomatoes-tomato-plant-Fruit-vegetable.jpg"},
+  {
+    id: 4,
+    name: "Potatoes",
+    price: 2.50,
+    discountPercentage: 7.5,
+    rating: 4.60,
+    unit: "kg",
+    stock: 158,
+    category: "Vegetables",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7FFtYRniDMrJmbM_d3ERJMQVUtS5yJIodwA&s"
+  },
+  {
+    id: 5,
+    name: "Onions",
+    price: 2.80,
+    discountPercentage: 7.5,
+    rating: 4.57,
+    unit: "kg",
+    stock: 200,
+    category: "Vegetables",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfhKH1rNjia1cA-5HJtr22xV1GF9O_VnrH7A&s"
+  },
+  {
+    id: 6,
+    name: "Bananas",
+    price: 1.80,
+    discountPercentage: 6.5,
+    rating: 4.57,
+    unit: "dozen",
+    stock: 140,
+    category: "Fruits",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHA5PRC_Xalf1_8D8V6pnHTOAntuJCjCu9Tw&s"
+  },
+  {
+    id: 7,
+    name: "Mangoes",
+    price: 5.00,
+    discountPercentage: 6.5,
+    rating: 4.40,
+    unit: "kg",
+    stock: 150,
+    category: "Fruits",
+    image: "https://c.ndtvimg.com/2023-05/3ph40r2_mango_625x300_02_May_23.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=886"
+  },
+  {
+    id: 8,
+    name: "Groundnuts",
+    price: 7.50,
+    discountPercentage: 7.5,
+    rating: 4.57,
+    unit: "kg",
+    stock: 150,
+    category: "Oilseeds",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrdOf7_9rlSCZL_2X-lTtDK4_WFdNhCP98ZA&s"
+  },
+  {
+    id: 9,
+    name: "Sunflower Seeds",
+    price: 6.80,
+    discountPercentage: 7.5,
+    rating: 4.67,
+    unit: "kg",
+    stock: 130,
+    category: "Oilseeds",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwIl1g9cIxNCiFW6PgHoxeHe4e6d3eolupCw&s"
+  },
+  {
+    id: 10,
+    name: "Cotton",
+    price: 12.00,
+    discountPercentage: 8.0,
+    rating: 4.77,
+    unit: "kg",
+    stock: 780,
+    category: "Fibers",
+    image: "https://t4.ftcdn.net/jpg/06/84/31/79/360_F_684317966_Pn9qU1DEfW5zpwoj25znJ1i0VdaOM2Px.jpg"
+  },
+  {
+    id: 11,
+    name: "Corn",
+    price: 4.50,
+    discountPercentage: 7.5,
+    rating: 4.57,
+    unit: "kg",
+    stock: 680,
+    category: "Grains",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI8mJaexq94edtBCwP3x2lLNwgsAG41uOXwA&s"
+  },
+  {
+    id: 12,
+    name: "Chilies",
+    price: 10.00,
+    discountPercentage: 7.5,
+    rating: 4.57,
+    unit: "kg",
+    stock: 150,
+    category: "Spices",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS80XsIzTebZ4aybkYhYeTSLH3nELF4U4LzA&s"
+  },
+  {
+    id: 13,
+    name: "Black Pepper",
+    price: 22.00,
+    discountPercentage: 7.5,
+    rating: 4.60,
+    unit: "kg",
+    stock: 100,
+    category: "Spices",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeOl7-wSsNNSijblVxNCzYzYUka9u0rde6Xw&s"
+  },
+  {
+    id: 14,
+    name: "Coriander",
+    price: 5.00,
+    discountPercentage: 7.5,
+    rating: 4.57,
+    unit: "kg",
+    stock: 440,
+    category: "Spices",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4neKWkkXqoDlSn6mYeTxS7jY2CJlZdYxyhw&s"
+  },
+  {
+    id: 15,
+    name: "Carrots",
+    price: 3.20,
+    discountPercentage: 8.0,
+    rating: 4.69,
+    unit: "kg",
+    stock: 560,
+    category: "Vegetables",
+    image: "https://cdn.shopify.com/s/files/1/0058/7779/2832/files/Carrot_Extract.png?v=1653976604"
+  }
+];
