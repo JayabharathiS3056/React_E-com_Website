@@ -46,28 +46,32 @@ State management is handled using **Redux Toolkit**.
 
 ---
 
+## Product Card
 <img width="1817" height="840" alt="image" src="https://github.com/user-attachments/assets/e2ba8419-8f75-44b1-b880-53e0c4b59655" />
 
 ---
 
+## Added to Cart
 <img width="1829" height="900" alt="image" src="https://github.com/user-attachments/assets/3808f2b3-278a-49d5-a75b-dd5a2e7679fd" />
 
 ---
 
+## Cart
 <img width="1882" height="855" alt="image" src="https://github.com/user-attachments/assets/f792f752-49b9-4a5e-b0f8-12c574ff34e7" />
 
 ---
 
+## Removing a item from cart
 <img width="1891" height="748" alt="image" src="https://github.com/user-attachments/assets/ad1333a1-78ec-47c7-9b6d-e0893fe8f5dd" />
 
 ---
 
-##Checkout
+## Checkout
 <img width="1876" height="900" alt="image" src="https://github.com/user-attachments/assets/7e4d0613-9ec7-49e9-942e-8547446e296e" />
 
 ---
 
-##Succes Message Page
+## Succes Message Page
 <img width="1899" height="934" alt="image" src="https://github.com/user-attachments/assets/bbedca4a-d342-4847-bd52-c23988670eb9" />
 
 🙌 Author
